@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ReisenhoferJ
-- 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning the very basic of the HTML and CSS
+-Hi, I’m @ReisenhoferJ.
+-I’m interested in web development.
+-I’m currently learning the basics of the front-end web development.
 
 <!---
 ReisenhoferJ/ReisenhoferJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
